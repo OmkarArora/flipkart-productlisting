@@ -1,0 +1,9 @@
+.container-filters{
+	width: var(--width-filterMenu);
+	height: 200px;
+	border: 1px solid black;
+	position: fixed;	
+	display: flex;
+	flex-direction: column;
+	gap: 1.5rem;
+}

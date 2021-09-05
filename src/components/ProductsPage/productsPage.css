@@ -1,0 +1,14 @@
+.page-products{
+	margin-top: calc(0.5rem + var(--height-header));
+}
+
+.container-products{
+	margin-left: calc(1rem + var(--width-filterMenu));
+	border: 1px solid yellow;
+}
+
+.list-products{
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+	grid-gap: 1.5rem;
+}

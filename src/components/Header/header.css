@@ -1,0 +1,12 @@
+.header-app{
+	display: flex;
+	align-items: center;
+	height: var(--height-header);
+	padding: 0 0.5rem;
+	border: 1px solid black;
+	position: fixed;
+	top:0;
+	left:0;
+	right:0;
+	background-color: white;
+}
