@@ -7,9 +7,9 @@ const ProductsContext = createContext();
 export const useProducts = () => useContext(ProductsContext);
 
 export const ProductsProvider = ({ children }) => {
-	const [{ products, appState }, dispatch] = useReducer(productsReducer, { products: [], appState: "success" })
+	const [{ products, appState, sizeFilter, brandsFilter, idealsFilter, sortOrder }, dispatch] = useReducer(productsReducer, { products: [], appState: "success", sizeFilter: [], brandsFilter: [], idealsFilter: [], sortOrder: null })
 
-	const value = { products, appState, dispatch };
+	const value = { products, appState, sizeFilter, brandsFilter, idealsFilter, sortOrder, dispatch };
 
 	const fetchProducts = () => {
 		const products = SampleData.products;
