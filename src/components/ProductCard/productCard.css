@@ -12,6 +12,12 @@
 
 .product-details{
 	padding: 0.5rem;
+	display: flex;
+	flex-direction: column;
+}
+
+.product-name{
+	padding: 0.3rem 0;
 }
 
 .container-product-img{
