@@ -3,12 +3,14 @@
  --z-header: 2;
  --width-filterMenu: 220px;
  --width-productCard: 200px;
- 
+
  --padding-page: 0.5rem;
 
  --color-text: #212121;
  --color-grey: #878787;
  --color-discount: #388e3c;
+
+ --box-shadow: rgba(0, 0, 0, 0.20) 0px 5px 15px;
 }
 
 body {
