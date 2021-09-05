@@ -53,8 +53,6 @@ export const FilterMenu = ({ sizes, brands, ideals }) => {
 
 	return (
 		<div className="container-filters">
-			{(sizeFilter.length > 0 || brandsFilter.length > 0 || idealsFilter.length > 0 || sortOrder !== null) && <button onClick={clearFilters}>Clear All Filters</button>}
-
 			<div className="filter-block">
 				<div className="filter-heading">Sort</div>
 				<label><input type="radio" value="htl" checked={sortOrder !== null && sortOrder === "htl"} onChange={onSortChange} />High to Low</label>
@@ -87,6 +85,8 @@ export const FilterMenu = ({ sizes, brands, ideals }) => {
 						{ideal}
 					</div>)}
 			</div>
+
+			{(sizeFilter.length > 0 || brandsFilter.length > 0 || idealsFilter.length > 0 || sortOrder !== null) && <button onClick={clearFilters}>Clear All Filters</button>}
 		</div>
 	)
 }
