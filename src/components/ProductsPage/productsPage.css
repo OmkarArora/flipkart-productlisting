@@ -4,7 +4,7 @@
 }
 
 .container-products{
-	margin-left: calc(1rem + var(--width-filterMenu));
+	margin-left: calc(1.5rem + var(--width-filterMenu));
 }
 
 .list-products{

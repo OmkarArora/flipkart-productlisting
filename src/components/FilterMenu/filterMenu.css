@@ -1,8 +1,9 @@
 .container-filters{
 	width: var(--width-filterMenu);
-	border: 1px solid black;
 	position: fixed;	
 	display: flex;
 	flex-direction: column;
 	gap: 1.5rem;
+	background-color: var(--color-bg);
+	padding: 0.5rem;
 }

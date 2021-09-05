@@ -3,6 +3,7 @@
 	flex-direction: column;
 	width: var(--width-productCard);
 	cursor: pointer;
+	background-color: var(--color-bg);
 }
 
 .card-product:hover{

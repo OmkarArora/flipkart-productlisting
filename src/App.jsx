@@ -1,4 +1,3 @@
-import './App.css';
 import { Header, ProductsPage } from './components';
 
 function App() {

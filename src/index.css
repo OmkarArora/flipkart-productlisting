@@ -9,6 +9,8 @@
  --color-text: #212121;
  --color-grey: #878787;
  --color-discount: #388e3c;
+ --color-bg-page: #F1F3F6;
+ --color-bg: #fff;
 
  --box-shadow: rgba(0, 0, 0, 0.20) 0px 5px 15px;
 }
@@ -22,7 +24,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  color: var(--color-text)
+  color: var(--color-text);
+  background-color: var(--color-bg-page);
 }
 
 .line-through{
