@@ -1,0 +1,151 @@
+{
+	"products": [
+		{
+			"_id": "sass12345",
+			"sizes": [
+				"S",
+				"M",
+				"L",
+				"XL"
+			],
+			"images": [
+				"https://rukminim1.flixcart.com/image/880/1056/kf1fo280hlty2aw-0/t-shirt/w/s/e/-original-imafdfvvr8hqdu65.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kf1fo280hlty2aw-0/t-shirt/i/c/s/-original-imafey9zzwxwjfum.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kf1fo280hlty2aw-0/t-shirt/b/o/e/-original-imafdfvvzycg62dp.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kf1fo280hlty2aw-0/t-shirt/e/d/t/-original-imafdfvv9kccjk9y.jpeg?q=50"
+			],
+			"brand": "HELMONT",
+			"name": "Striped Men Hooded Neck Red, Black T-Shirt",
+			"currency": {
+				"code": "INR",
+				"symbol": "₹"
+			},
+			"price": 999,
+			"discount": 79,
+			"ideal": [
+				"Men",
+				"Women"
+			]
+		},
+		{
+			"_id": "sass23456",
+			"sizes": [
+				"S",
+				"M",
+				"L"
+			],
+			"images": [
+				"https://rukminim1.flixcart.com/image/880/1056/k687wy80/sari/h/j/g/free-desirable-admirable-most-south-indian-bengali-creative-original-imafzpdejv2hzndd.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kt39jm80/sari/c/b/z/free-s185456-fabwomen-unstitched-original-imag6gjwjartmufd.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kt39jm80/sari/f/c/4/free-s185456-fabwomen-unstitched-original-imag6gjw6znufjym.jpeg?q=50"
+			],
+			"brand": "Fabwomen",
+			"name": "Printed Mysore Art Silk Saree  (Pink)",
+			"currency": {
+				"code": "INR",
+				"symbol": "₹"
+			},
+			"price": 1669,
+			"discount": 84,
+			"ideal": [
+				"Women"
+			]
+		},
+		{
+			"_id": "sass34567",
+			"sizes": [
+				"S",
+				"M"
+			],
+			"images": [
+				"https://rukminim1.flixcart.com/image/880/1056/kk4c13k0/kids-t-shirt/u/g/e/8-9-years-kidswithmask-thefashionplus-original-imafzjh2gubvgyxt.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kk4c13k0/kids-t-shirt/c/a/c/8-9-years-kidswithmask-thefashionplus-original-imafzjh2vcbqrggr.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kk4c13k0/kids-t-shirt/p/s/s/8-9-years-kidswithmask-thefashionplus-original-imafzjh2xfekuh79.jpeg?q=50"
+			],
+			"brand": "TheFashionPlus",
+			"name": "Boys Solid Cotton Blend T Shirt  (Yellow, Pack of 1)",
+			"currency": {
+				"code": "INR",
+				"symbol": "₹"
+			},
+			"price": 1669,
+			"discount": 85,
+			"ideal": [
+				"Boys"
+			]
+		},
+		{
+			"_id": "sass45678",
+			"sizes": [
+				"S",
+				"M",
+				"L"
+			],
+			"images": [
+				"https://rukminim1.flixcart.com/image/880/1056/kmds4nk0/kids-t-shirt/o/y/y/13-14-years-tblwtylrn-bd27-tripr-original-imagfau9nzxegqa7.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kmds4nk0/kids-t-shirt/w/m/k/13-14-years-tblwtylrn-bd27-tripr-original-imagfau9wjuaezmp.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kmds4nk0/kids-t-shirt/k/r/7/11-12-years-tblwtylrn-bd27-tripr-original-imagfau9bfhbg42n.jpeg?q=50"
+			],
+			"brand": "TRIPR",
+			"name": "Boys Colorblock Cotton Blend T Shirt  (Multicolor, Pack of 1)",
+			"currency": {
+				"code": "INR",
+				"symbol": "₹"
+			},
+			"price": 1399,
+			"discount": 81,
+			"ideal": [
+				"Boys"
+			]
+		},
+		{
+			"_id": "sass56789",
+			"sizes": [
+				"S",
+				"M"
+			],
+			"images": [
+				"https://rukminim1.flixcart.com/image/880/1056/kesv0y80/kids-dress/n/q/h/4-5-years-cotton-kids-jhabla-girls-frocks-sonia-collection-original-imafvdsmxc66h5xg.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kesv0y80/kids-dress/n/q/h/3-4-years-cotton-kids-jhabla-girls-frocks-sonia-collection-original-imafvdsmhdwqpgpm.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kesv0y80/kids-dress/n/q/h/3-4-years-cotton-kids-jhabla-girls-frocks-sonia-collection-original-imafvdsmxynxsnzz.jpeg?q=50"
+			],
+			"brand": "sonia collection",
+			"name": "Baby Girls, Girls Calf Length Casual Dress  (Multicolor, Sleeveless)",
+			"currency": {
+				"code": "INR",
+				"symbol": "₹"
+			},
+			"price": 999,
+			"discount": 74,
+			"ideal": [
+				"Girls"
+			]
+		},
+		{
+			"_id": "sass67890",
+			"sizes": [
+				"S",
+				"M",
+				"L",
+				"XL",
+				"XXL"
+			],
+			"images": [
+				"https://rukminim1.flixcart.com/image/880/1056/kod858w0/jean/0/o/3/34-plain-jean-lblue-namma-ooru-trend-original-imag2uafzbgahz8g.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kod858w0/jean/b/e/r/34-plain-jean-lblue-namma-ooru-trend-original-imag2uafm6u8h63v.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kod858w0/jean/q/v/f/34-plain-jean-lblue-namma-ooru-trend-original-imag2uafpjgcuubg.jpeg?q=50"
+			],
+			"brand": "NAMMA OORU TREND",
+			"name": "Slim Men & Women Light Blue Jeans",
+			"currency": {
+				"code": "INR",
+				"symbol": "₹"
+			},
+			"price": 2499,
+			"discount": 76,
+			"ideal": [
+				"Girls"
+			]
+		}
+	]
+}
