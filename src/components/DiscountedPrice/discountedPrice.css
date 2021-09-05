@@ -1,0 +1,16 @@
+.discounted-price{
+	display: flex;
+	gap: 0.5rem;
+	align-items: flex-end;
+	font-weight: 500;
+}
+
+.original-price{
+	font-size: 14px;
+}
+
+.discount{
+	color: var(--color-discount);
+	font-size: 13px;
+	
+}

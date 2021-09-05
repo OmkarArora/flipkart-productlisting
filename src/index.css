@@ -3,6 +3,10 @@
  --z-header: 2;
  --width-filterMenu: 220px;
  --padding-page: 0.5rem;
+
+ --color-text: #212121;
+ --color-grey: #878787;
+ --color-discount: #388e3c;
 }
 
 body {
@@ -13,4 +17,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  color: var(--color-text)
+}
+
+.line-through{
+  text-decoration: line-through;
+}
+
+.text-grey{
+  color: var(--color-grey);
+}
+
+.weight500{
+  font-weight: 500;
 }
